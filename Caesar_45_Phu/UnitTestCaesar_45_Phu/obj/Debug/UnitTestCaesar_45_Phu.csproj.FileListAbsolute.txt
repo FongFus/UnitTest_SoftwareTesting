@@ -1,0 +1,17 @@
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\UnitTestCaesar_45_Phu.dll
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\UnitTestCaesar_45_Phu.pdb
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Caesar_45_Phu.exe
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Caesar_45_Phu.pdb
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Caesar_45_Phu.exe.config
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\obj\Debug\UnitTestCaesar_45_Phu.csproj.AssemblyReference.cache
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\obj\Debug\UnitTestCaesar_45_Phu.csproj.CoreCompileInputs.cache
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\obj\Debug\UnitTestCaesar_45_Phu.csproj.CopyComplete
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\obj\Debug\UnitTestCaesar_45_Phu.dll
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\UnitTestCaesar_45_Phu\obj\Debug\UnitTestCaesar_45_Phu.pdb

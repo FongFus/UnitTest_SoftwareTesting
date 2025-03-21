@@ -1,0 +1,10 @@
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\bin\Debug\Caesar_45_Phu.exe.config
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\bin\Debug\Caesar_45_Phu.exe
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\bin\Debug\Caesar_45_Phu.pdb
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\obj\Debug\Caesar_45_Phu.csproj.AssemblyReference.cache
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\obj\Debug\Caesar_45_Phu.Caesar_45_Phu.resources
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\obj\Debug\Caesar_45_Phu.Properties.Resources.resources
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\obj\Debug\Caesar_45_Phu.csproj.GenerateResource.cache
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\obj\Debug\Caesar_45_Phu.csproj.CoreCompileInputs.cache
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\obj\Debug\Caesar_45_Phu.exe
+D:\IT Projects-KTPM\BTL\TestCaesar\project\Caesar_45_Phu\Caesar_45_Phu\obj\Debug\Caesar_45_Phu.pdb
