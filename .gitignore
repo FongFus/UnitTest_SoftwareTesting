@@ -1,8 +1,22 @@
+# Build files
 bin/
 obj/
+TestResults/
+
+# Visual Studio & VS Code
+.vs/
 .vscode/
-*.user
 *.suo
-*.db
+*.user
+
+# Logs & Cache
 *.log
 *.cache
+
+# Database files
+*.db
+
+# NUnit Test Results
+*.trx
+*.coverage
+*.testsettings
